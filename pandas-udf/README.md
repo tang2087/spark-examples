@@ -1,2 +1,2 @@
 # Improve PySpark Performance using Pandas UDF with Apache Arrow
-Refer to (this link](https://kontext.tech/column/spark/370/improve-pyspark-performance-using-pandas-udf-with-apache-arrow) for more details about this. 
+Refer to [this link](https://kontext.tech/column/spark/370/improve-pyspark-performance-using-pandas-udf-with-apache-arrow) for more details about this. 
