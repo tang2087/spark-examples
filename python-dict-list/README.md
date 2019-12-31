@@ -1,0 +1,2 @@
+# PySpark: Convert Python Dictionary List to Spark DataFrame
+Refer to [this link](https://kontext.tech/column/spark/372/pyspark-convert-python-dictionary-list-to-spark-dataframe) for more details about this. 
